@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "675489254379",
+    "firebase_url": "https://evnspc-home.firebaseio.com",
+    "project_id": "evnspc-home",
+    "storage_bucket": "evnspc-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675489254379:android:f730eb4b5f07dffce2e7ae",
+        "android_client_info": {
+          "package_name": "com.evnspc.home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675489254379-6s3nn2hingnntid5kfsn5ocaferctuig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDep38GO7-ZFSkUVbqyiy3_noEBoWNyAdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675489254379-6s3nn2hingnntid5kfsn5ocaferctuig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

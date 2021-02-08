@@ -1,0 +1,51 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@eva-design/eva": "^1.4.0",
+    "@react-native-async-storage/async-storage": "^1.13.2",
+    "@react-native-community/datetimepicker": "3.0.0",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-navigation/bottom-tabs": "^5.2.6",
+    "@react-navigation/native": "^5.1.5",
+    "@react-navigation/stack": "^5.2.10",
+    "@react-navigation/web": "^1.0.0-alpha.9",
+    "@ui-kitten/components": "^4.4.1",
+    "@ui-kitten/eva-icons": "^4.4.1",
+    "expo": "^39.0.0",
+    "expo-constants": "~9.2.0",
+    "expo-font": "~8.3.0",
+    "expo-intent-launcher": "~8.3.0",
+    "expo-linking": "^1.0.5",
+    "expo-notifications": "~0.7.2",
+    "expo-permissions": "~9.3.0",
+    "expo-sharing": "~8.4.1",
+    "expo-splash-screen": "~0.6.2",
+    "expo-web-browser": "~8.5.0",
+    "lodash": "^4.17.20",
+    "moment": "^2.24.0",
+    "native-base": "^2.13.14",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.3.tar.gz",
+    "react-native-gesture-handler": "~1.7.0",
+    "react-native-htmlview": "^0.15.0",
+    "react-native-modal-datetime-picker": "^8.5.4",
+    "react-native-reanimated": "~1.13.0",
+    "react-native-safe-area-context": "3.1.4",
+    "react-native-screens": "~2.10.1",
+    "react-native-svg": "^12.1.0",
+    "react-native-web": "~0.13.7",
+    "react-native-webview": "10.7.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^8.3.0"
+  },
+  "private": true
+}

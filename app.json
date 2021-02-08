@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "EVNSPC HOME",
+    "slug": "evnspc-home",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.9",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.evnspc.homespc",
+      "buildNumber": "1.0.9"
+    },
+    "android": {
+      "package": "com.evnspc.home",
+      "permissions": [
+        "CAMERA",
+        "READ_PHONE_STATE",
+        "READ_CONTACTS",
+        "RECORD_AUDIO"
+      ],
+      "useNextNotificationsApi": true,
+	    "googleServicesFile": "./google-services.json",
+      "versionCode": 10
+    },
+    "description": "",
+    "scheme": "evnspchome"
+  }
+}
